@@ -15,7 +15,7 @@ Gosto de transformar ideias em código limpo, acessível e com propósito.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 📈 GitHub Stats
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosilva&show_icons=true&theme=tokyonight)
+[![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilofreire666)](https://github.com/murilofreire666/github-readme-stats)
 
 ## 📫 Contato
 - 💌 Email: murilofreire666@hotmail.com
